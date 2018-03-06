@@ -1,0 +1,13 @@
+body {
+  background-color: #102211;
+}
+
+#header {
+  text-align: center;
+}
+
+.titles {
+  font-family: "Georgia", serif;
+  font-size: 4em;
+  color: #10e2f1;
+}
