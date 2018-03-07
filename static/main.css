@@ -3,11 +3,19 @@ body {
 }
 
 #header {
-  text-align: center;
+  margin: auto 0;
 }
 
-.titles {
+.header-titles {
   font-family: "Georgia", serif;
   font-size: 4em;
   color: #10e2f1;
+  text-align: left;
+}
+
+.header-links {
+  font-family: "Georgia", serif;
+  font-size: 1em;
+  color: #10e2f1;
+  text-align: right;
 }
